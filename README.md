@@ -4,7 +4,7 @@ This is the official implementation of our paper: Semi-supervised Cross-modality
 
 ### Prepare the datasets
 SYSU-MM01: The SYSU-MM01 dataset can be downloaded from: http://isee.sysu.edu.cn/project/RGBIRReID.htm<br>
-RegDB: The RegDB Dataset can be downloaded from this [website](http://dm.dongguk.edu/link.html) by submitting a copyright form (Named:"Dongguk Body-based Person Recognition Database (DBPerson-Recog-DB1)" on their website).<br>
+RegDB: The RegDB Dataset can be downloaded from this website (http://dm.dongguk.edu/link.html) by submitting a copyright form (Named:"Dongguk Body-based Person Recognition Database (DBPerson-Recog-DB1)" on their website).<br>
 - Run pre_process_sysu.py for processing SYSU-MM01 and run pre_process_regdb.py for processing RegDB.
 ### Training
 - run train_mine.py<br>
